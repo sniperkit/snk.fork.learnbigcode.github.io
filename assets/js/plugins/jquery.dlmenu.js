@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 /**
  * jquery.dlmenu.js v1.0.1
  * http://www.codrops.com

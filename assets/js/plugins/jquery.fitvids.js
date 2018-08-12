@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 /*global jQuery */
 /*jshint multistr:true, browser:true */
 /*!

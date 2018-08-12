@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 /*! Plugin options and other jQuery stuff */
 
 // dl-menu options

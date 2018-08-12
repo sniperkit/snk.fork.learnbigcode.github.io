@@ -1,4 +1,9 @@
 /*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
+/*
  * jQuery mmenu v5.4.0
  * @requires jQuery 1.7.0 or later
  *
